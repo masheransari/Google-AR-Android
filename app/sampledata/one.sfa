@@ -1,0 +1,199 @@
+{
+  materials: [
+    {
+      name: '__________',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.36862699999999998,
+            0.36862699999999998,
+            0.36862699999999998,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.15162,
+        },
+        {
+          opacity: 0.75,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_____________',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.96470599999999995,
+            0.96470599999999995,
+            0.96470599999999995,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.15617400000000001,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '______________',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.15617400000000001,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_______________',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.77254900000000004,
+            0.16078400000000001,
+            0.145098,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.15617400000000001,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '10___Default',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.972549,
+            0.23921600000000001,
+            0.019608,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.53452200000000005,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '10___Default654',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.53452200000000005,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: '_____',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.98039200000000004,
+            0.98039200000000004,
+            0.98039200000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 0.53452200000000005,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/one.obj',
+    name: 'one',
+    recenter: 'root',
+    scale: 0.12768599999999999,
+  },
+  version: '0.54:2',
+}
